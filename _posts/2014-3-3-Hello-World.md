@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: what zoos
 published: true
 ---
 # hello meow chello
